@@ -1,5 +1,5 @@
 // Mensaje Inicial
-console.log("\n\n----- 2. VERSIÓN CON PROMESAS (BÁSICA) -----");
+console.log("\n\n----- 2. VERSIÓN CON PROMESAS -----");
 console.log("Flujo: 1s (Buscar) -> 2s (Permisos) -> 1s (Reporte).");
 
 // Función 1 (Promesa): Buscar Usuario (1 segundo)
